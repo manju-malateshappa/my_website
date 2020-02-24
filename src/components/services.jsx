@@ -15,7 +15,7 @@ export default class Services extends Component {
             </div> {/* /section-intro */}
             <div className="row services-content">
                 <div id="owl-slider" className="owl-carousel services-list">
-                <a href="https://github.com/manjum2050/Airbnb-Big-Data-Project.git" target="_blank">
+                <a href="https://github.com/manjum2050/Airbnb-Big-Data-Project.git" rel="noopener noreferrer" target="_blank">
                     <div className="service">	
                     <span className="icon"><i className="fa fa-shield" /></span>            
                     <div className="service-content">	

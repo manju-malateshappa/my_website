@@ -10,7 +10,7 @@ export default class About extends Component {
             <h5>About</h5>
             <h1>Let me introduce myself.</h1>
             <div className="intro-info">
-                <img src="images/profile-pic.jpg" alt="Profile Picture" />
+                <img src="images/profile-pic.jpg" alt="Profile" />
                 <p className="lead">I am a graduate student at Simon Fraser University pursuing 
                 my 2nd term. I'm passionate for Data Science and competent in Deep Neural Networks. Developing custom big data solutions is my thing.</p>
             </div>   			

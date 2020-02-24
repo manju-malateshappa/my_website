@@ -16,13 +16,13 @@ export default class Introduction extends Component {
                         <span>Data Scientist</span>
                         <span>Big Data Developer</span> 
                         </p>
-                        <a className="button stroke smoothscroll" href="#about" title>More About Me</a>
+                        <a className="button stroke smoothscroll" href="#about" data-nav-section="about">More About Me</a>
                     </div>  
                 </div>   		 		
             </div> {/* /intro-content */} 
             <ul className="footer-social">
-                <li><a href="https://www.linkedin.com/in/manju-malateshappa/" target="_blank"><i className="fa fa-linkedin" /></a></li>
-                <li><a href="https://github.com/manjum2050" target="_blank"><i className="fa fa-github" /></a></li>
+                <li><a href="https://www.linkedin.com/in/manju-malateshappa/" rel="noopener noreferrer" target="_blank"><i className="fa fa-linkedin" /></a></li>
+                <li><a href="https://github.com/manjum2050" rel="noopener noreferrer" target="_blank"><i className="fa fa-github" /></a></li>
             </ul>
         </section>
 
